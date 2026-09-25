@@ -67,3 +67,11 @@ vcpkg_installed/
 # test output & cache
 Testing/
 .cache/
+
+# Local IDE state, captures, and credentials
+.vs/
+.env
+*.env
+*.bin
+remote-heap-dumps/
+dumps/
