@@ -1,0 +1,247 @@
+2026-09-24 19:55:39.334 INIT server target: s1.ukraine-gta5.com.ua:22005, connect_host=s1.ukraine-gta5.com.ua, attempt=1/2, local_port=58115
+2026-09-24 19:55:39.554 CONNECT ID_CONNECTION_REQUEST_ACCEPTED
+2026-09-24 19:55:39.664 AUTH upper auth result received
+2026-09-24 19:55:39.884 BOOTSTRAP upper 0x03 received
+2026-09-24 19:55:44.282 HASH_SCAN identity ack received
+2026-09-24 19:55:44.283 BIZ_ORDER_DUMP connected and ready
+2026-09-24 19:55:44.313 HEAP_DUMP request=1 claimed_bytes=65535
+2026-09-24 19:55:45.023 HASH_SCAN identity ack received
+2026-09-24 19:55:49.342 HEAP_DUMP request=2 claimed_bytes=65535
+2026-09-24 19:55:51.574 HASH_SCAN identity ack received
+2026-09-24 19:55:54.363 HEAP_DUMP request=3 claimed_bytes=65535
+2026-09-24 19:55:59.394 HEAP_DUMP request=4 claimed_bytes=65535
+2026-09-24 19:55:59.991 HASH_SCAN identity ack received
+2026-09-24 19:56:04.402 HEAP_DUMP request=5 claimed_bytes=65535
+2026-09-24 19:56:09.410 HEAP_DUMP request=6 claimed_bytes=65535
+2026-09-24 19:56:11.441 HASH_SCAN identity ack received
+2026-09-24 19:56:14.430 HEAP_DUMP request=7 claimed_bytes=65535
+2026-09-24 19:56:19.435 HEAP_DUMP request=8 claimed_bytes=65535
+2026-09-24 19:56:24.451 HEAP_DUMP request=9 claimed_bytes=65535
+2026-09-24 19:56:29.456 HEAP_DUMP request=10 claimed_bytes=65535
+2026-09-24 19:56:34.470 HEAP_DUMP request=11 claimed_bytes=65535
+2026-09-24 19:56:36.963 HASH_SCAN identity ack received
+2026-09-24 19:56:39.494 HEAP_DUMP request=12 claimed_bytes=65535
+2026-09-24 19:56:44.496 HEAP_DUMP request=13 claimed_bytes=65535
+2026-09-24 19:56:49.510 HEAP_DUMP request=14 claimed_bytes=65535
+2026-09-24 19:56:50.404 HASH_SCAN identity ack received
+2026-09-24 19:56:52.003 HASH_SCAN identity ack received
+2026-09-24 19:56:54.539 HEAP_DUMP request=15 claimed_bytes=65535
+2026-09-24 19:56:59.543 HEAP_DUMP request=16 claimed_bytes=65535
+2026-09-24 19:57:01.330 HASH_SCAN identity ack received
+2026-09-24 19:57:04.571 HEAP_DUMP request=17 claimed_bytes=65535
+2026-09-24 19:57:09.573 HEAP_DUMP request=18 claimed_bytes=65535
+2026-09-24 19:57:11.209 HASH_SCAN identity ack received
+2026-09-24 19:57:14.575 HEAP_DUMP request=19 claimed_bytes=65535
+2026-09-24 19:57:19.599 HEAP_DUMP request=20 claimed_bytes=65535
+2026-09-24 19:57:24.614 HEAP_DUMP request=21 claimed_bytes=65535
+2026-09-24 19:57:27.511 HASH_SCAN identity ack received
+2026-09-24 19:57:29.619 HEAP_DUMP request=22 claimed_bytes=65535
+2026-09-24 19:57:31.014 HASH_SCAN identity ack received
+2026-09-24 19:57:33.750 HASH_SCAN identity ack received
+2026-09-24 19:57:34.633 HEAP_DUMP request=23 claimed_bytes=65535
+2026-09-24 19:57:35.743 HASH_SCAN identity ack received
+2026-09-24 19:57:39.664 HEAP_DUMP request=24 claimed_bytes=65535
+2026-09-24 19:57:43.864 HASH_SCAN identity ack received
+2026-09-24 19:57:44.682 HEAP_DUMP request=25 claimed_bytes=65535
+2026-09-24 19:57:49.708 HEAP_DUMP request=26 claimed_bytes=65535
+2026-09-24 19:57:51.765 HASH_SCAN identity ack received
+2026-09-24 19:57:54.727 HEAP_DUMP request=27 claimed_bytes=65535
+2026-09-24 19:57:59.758 HEAP_DUMP request=28 claimed_bytes=65535
+2026-09-24 19:58:04.763 HEAP_DUMP request=29 claimed_bytes=65535
+2026-09-24 19:58:05.621 HASH_SCAN identity ack received
+2026-09-24 19:58:09.785 HEAP_DUMP request=30 claimed_bytes=65535
+2026-09-24 19:58:14.079 HASH_SCAN identity ack received
+2026-09-24 19:58:14.373 HASH_SCAN identity ack received
+2026-09-24 19:58:14.815 HEAP_DUMP request=31 claimed_bytes=65535
+2026-09-24 19:58:19.835 HEAP_DUMP request=32 claimed_bytes=65535
+2026-09-24 19:58:24.864 HEAP_DUMP request=33 claimed_bytes=65535
+2026-09-24 19:58:29.873 HEAP_DUMP request=34 claimed_bytes=65535
+2026-09-24 19:58:34.878 HEAP_DUMP request=35 claimed_bytes=65535
+2026-09-24 19:58:39.513 HASH_SCAN identity ack received
+2026-09-24 19:58:39.887 HEAP_DUMP request=36 claimed_bytes=65535
+2026-09-24 19:58:44.332 HASH_SCAN identity ack received
+2026-09-24 19:58:44.899 HEAP_DUMP request=37 claimed_bytes=65535
+2026-09-24 19:58:49.365 HASH_SCAN identity ack received
+2026-09-24 19:58:49.927 HEAP_DUMP request=38 claimed_bytes=65535
+2026-09-24 19:58:54.945 HEAP_DUMP request=39 claimed_bytes=65535
+2026-09-24 19:58:59.954 HEAP_DUMP request=40 claimed_bytes=65535
+2026-09-24 19:59:04.982 HEAP_DUMP request=41 claimed_bytes=65535
+2026-09-24 19:59:08.057 HASH_SCAN identity ack received
+2026-09-24 19:59:09.994 HEAP_DUMP request=42 claimed_bytes=65535
+2026-09-24 19:59:12.227 HASH_SCAN identity ack received
+2026-09-24 19:59:15.022 HEAP_DUMP request=43 claimed_bytes=65535
+2026-09-24 19:59:20.036 HEAP_DUMP request=44 claimed_bytes=65535
+2026-09-24 19:59:25.067 HEAP_DUMP request=45 claimed_bytes=65535
+2026-09-24 19:59:30.095 HEAP_DUMP request=46 claimed_bytes=65535
+2026-09-24 19:59:30.799 HASH_SCAN identity ack received
+2026-09-24 19:59:35.098 HEAP_DUMP request=47 claimed_bytes=65535
+2026-09-24 19:59:40.109 HEAP_DUMP request=48 claimed_bytes=65535
+2026-09-24 19:59:45.110 HEAP_DUMP request=49 claimed_bytes=65535
+2026-09-24 19:59:46.126 HASH_SCAN identity ack received
+2026-09-24 19:59:47.278 HASH_SCAN identity ack received
+2026-09-24 19:59:50.127 HEAP_DUMP request=50 claimed_bytes=65535
+2026-09-24 19:59:55.132 HEAP_DUMP request=51 claimed_bytes=65535
+2026-09-24 20:00:00.139 HEAP_DUMP request=52 claimed_bytes=65535
+2026-09-24 20:00:01.726 HASH_SCAN identity ack received
+2026-09-24 20:00:05.163 HEAP_DUMP request=53 claimed_bytes=65535
+2026-09-24 20:00:10.189 HEAP_DUMP request=54 claimed_bytes=65535
+2026-09-24 20:00:15.194 HEAP_DUMP request=55 claimed_bytes=65535
+2026-09-24 20:00:18.223 HASH_SCAN identity ack received
+2026-09-24 20:00:20.207 HEAP_DUMP request=56 claimed_bytes=65535
+2026-09-24 20:00:25.215 HEAP_DUMP request=57 claimed_bytes=65535
+2026-09-24 20:00:26.624 HASH_SCAN identity ack received
+2026-09-24 20:00:30.246 HEAP_DUMP request=58 claimed_bytes=65535
+2026-09-24 20:00:32.681 HASH_SCAN identity ack received
+2026-09-24 20:00:35.275 HEAP_DUMP request=59 claimed_bytes=65535
+2026-09-24 20:00:40.290 HEAP_DUMP request=60 claimed_bytes=65535
+2026-09-24 20:00:44.939 HASH_SCAN identity ack received
+2026-09-24 20:00:45.298 HEAP_DUMP request=61 claimed_bytes=65535
+2026-09-24 20:00:50.311 HEAP_DUMP request=62 claimed_bytes=65535
+2026-09-24 20:00:51.215 HASH_SCAN identity ack received
+2026-09-24 20:00:55.337 HEAP_DUMP request=63 claimed_bytes=65535
+2026-09-24 20:01:00.343 HEAP_DUMP request=64 claimed_bytes=65535
+2026-09-24 20:01:05.362 HEAP_DUMP request=65 claimed_bytes=65535
+2026-09-24 20:01:09.646 HASH_SCAN identity ack received
+2026-09-24 20:01:10.382 HEAP_DUMP request=66 claimed_bytes=65535
+2026-09-24 20:01:15.386 HEAP_DUMP request=67 claimed_bytes=65535
+2026-09-24 20:01:16.686 HASH_SCAN identity ack received
+2026-09-24 20:01:20.418 HEAP_DUMP request=68 claimed_bytes=65535
+2026-09-24 20:01:25.433 HEAP_DUMP request=69 claimed_bytes=65535
+2026-09-24 20:01:27.076 HASH_SCAN identity ack received
+2026-09-24 20:01:29.164 HASH_SCAN identity ack received
+2026-09-24 20:01:30.459 HEAP_DUMP request=70 claimed_bytes=65535
+2026-09-24 20:01:31.115 HASH_SCAN identity ack received
+2026-09-24 20:01:35.474 HEAP_DUMP request=71 claimed_bytes=65535
+2026-09-24 20:01:40.492 HEAP_DUMP request=72 claimed_bytes=65535
+2026-09-24 20:01:45.427 HASH_SCAN identity ack received
+2026-09-24 20:01:45.521 HEAP_DUMP request=73 claimed_bytes=65535
+2026-09-24 20:01:50.532 HEAP_DUMP request=74 claimed_bytes=65535
+2026-09-24 20:01:51.176 HASH_SCAN identity ack received
+2026-09-24 20:01:55.552 HEAP_DUMP request=75 claimed_bytes=65535
+2026-09-24 20:02:00.577 HEAP_DUMP request=76 claimed_bytes=65535
+2026-09-24 20:02:04.103 HASH_SCAN identity ack received
+2026-09-24 20:02:05.581 HEAP_DUMP request=77 claimed_bytes=65535
+2026-09-24 20:02:10.582 HEAP_DUMP request=78 claimed_bytes=65535
+2026-09-24 20:02:13.165 HASH_SCAN identity ack received
+2026-09-24 20:02:13.792 HASH_SCAN identity ack received
+2026-09-24 20:02:15.589 HEAP_DUMP request=79 claimed_bytes=65535
+2026-09-24 20:02:16.685 HASH_SCAN identity ack received
+2026-09-24 20:02:20.602 HEAP_DUMP request=80 claimed_bytes=65535
+2026-09-24 20:02:21.172 HASH_SCAN identity ack received
+2026-09-24 20:02:25.606 HEAP_DUMP request=81 claimed_bytes=65535
+2026-09-24 20:02:29.279 HASH_SCAN identity ack received
+2026-09-24 20:02:30.623 HEAP_DUMP request=82 claimed_bytes=65535
+2026-09-24 20:02:33.905 HASH_SCAN identity ack received
+2026-09-24 20:02:34.650 HASH_SCAN identity ack received
+2026-09-24 20:02:35.652 HEAP_DUMP request=83 claimed_bytes=65535
+2026-09-24 20:02:40.676 HEAP_DUMP request=84 claimed_bytes=65535
+2026-09-24 20:02:45.691 HEAP_DUMP request=85 claimed_bytes=65535
+2026-09-24 20:02:46.302 HASH_SCAN identity ack received
+2026-09-24 20:02:50.633 HASH_SCAN identity ack received
+2026-09-24 20:02:50.695 HEAP_DUMP request=86 claimed_bytes=65535
+2026-09-24 20:02:55.697 HEAP_DUMP request=87 claimed_bytes=65535
+2026-09-24 20:03:00.723 HEAP_DUMP request=88 claimed_bytes=65535
+2026-09-24 20:03:05.743 HEAP_DUMP request=89 claimed_bytes=65535
+2026-09-24 20:03:10.773 HEAP_DUMP request=90 claimed_bytes=65535
+2026-09-24 20:03:15.803 HEAP_DUMP request=91 claimed_bytes=65535
+2026-09-24 20:03:20.816 HEAP_DUMP request=92 claimed_bytes=65535
+2026-09-24 20:03:23.678 HASH_SCAN identity ack received
+2026-09-24 20:03:25.847 HEAP_DUMP request=93 claimed_bytes=65535
+2026-09-24 20:03:30.870 HEAP_DUMP request=94 claimed_bytes=65535
+2026-09-24 20:03:35.871 HEAP_DUMP request=95 claimed_bytes=65535
+2026-09-24 20:03:38.125 HASH_SCAN identity ack received
+2026-09-24 20:03:40.876 HEAP_DUMP request=96 claimed_bytes=65535
+2026-09-24 20:03:45.880 HEAP_DUMP request=97 claimed_bytes=65535
+2026-09-24 20:03:50.888 HEAP_DUMP request=98 claimed_bytes=65535
+2026-09-24 20:03:51.982 HASH_SCAN identity ack received
+2026-09-24 20:03:55.911 HEAP_DUMP request=99 claimed_bytes=65535
+2026-09-24 20:04:00.932 HEAP_DUMP request=100 claimed_bytes=65535
+2026-09-24 20:04:01.840 HASH_SCAN identity ack received
+2026-09-24 20:04:03.725 HASH_SCAN identity ack received
+2026-09-24 20:04:03.958 HASH_SCAN identity ack received
+2026-09-24 20:04:04.033 HASH_SCAN identity ack received
+2026-09-24 20:04:05.950 HEAP_DUMP request=101 claimed_bytes=65535
+2026-09-24 20:04:10.963 HEAP_DUMP request=102 claimed_bytes=65535
+2026-09-24 20:04:14.020 HASH_SCAN identity ack received
+2026-09-24 20:04:15.974 HEAP_DUMP request=103 claimed_bytes=65535
+2026-09-24 20:04:20.989 HEAP_DUMP request=104 claimed_bytes=65535
+2026-09-24 20:04:21.443 HASH_SCAN identity ack received
+2026-09-24 20:04:24.314 HASH_SCAN identity ack received
+2026-09-24 20:04:26.003 HEAP_DUMP request=105 claimed_bytes=65535
+2026-09-24 20:04:26.581 HASH_SCAN identity ack received
+2026-09-24 20:04:31.025 HEAP_DUMP request=106 claimed_bytes=65535
+2026-09-24 20:04:36.029 HEAP_DUMP request=107 claimed_bytes=65535
+2026-09-24 20:04:36.558 HASH_SCAN identity ack received
+2026-09-24 20:04:37.781 HASH_SCAN identity ack received
+2026-09-24 20:04:39.305 HASH_SCAN identity ack received
+2026-09-24 20:04:39.586 HASH_SCAN identity ack received
+2026-09-24 20:04:41.045 HEAP_DUMP request=108 claimed_bytes=65535
+2026-09-24 20:04:42.441 HASH_SCAN identity ack received
+2026-09-24 20:04:43.474 HASH_SCAN identity ack received
+2026-09-24 20:04:46.068 HEAP_DUMP request=109 claimed_bytes=65535
+2026-09-24 20:04:51.080 HEAP_DUMP request=110 claimed_bytes=65535
+2026-09-24 20:04:52.363 HASH_SCAN identity ack received
+2026-09-24 20:04:53.162 HASH_SCAN identity ack received
+2026-09-24 20:04:55.766 HASH_SCAN identity ack received
+2026-09-24 20:04:55.969 HASH_SCAN identity ack received
+2026-09-24 20:04:56.094 HEAP_DUMP request=111 claimed_bytes=65535
+2026-09-24 20:04:56.890 HASH_SCAN identity ack received
+2026-09-24 20:05:01.119 HEAP_DUMP request=112 claimed_bytes=65535
+2026-09-24 20:05:06.129 HEAP_DUMP request=113 claimed_bytes=65535
+2026-09-24 20:05:11.159 HEAP_DUMP request=114 claimed_bytes=65535
+2026-09-24 20:05:11.882 HASH_SCAN identity ack received
+2026-09-24 20:05:15.662 HASH_SCAN identity ack received
+2026-09-24 20:05:16.180 HEAP_DUMP request=115 claimed_bytes=65535
+2026-09-24 20:05:19.405 HASH_SCAN identity ack received
+2026-09-24 20:05:20.130 HASH_SCAN identity ack received
+2026-09-24 20:05:21.196 HEAP_DUMP request=116 claimed_bytes=65535
+2026-09-24 20:05:26.199 HEAP_DUMP request=117 claimed_bytes=65535
+2026-09-24 20:05:31.209 HEAP_DUMP request=118 claimed_bytes=65535
+2026-09-24 20:05:36.226 HEAP_DUMP request=119 claimed_bytes=65535
+2026-09-24 20:05:41.243 HEAP_DUMP request=120 claimed_bytes=65535
+2026-09-24 20:05:46.272 HEAP_DUMP request=121 claimed_bytes=65535
+2026-09-24 20:05:48.311 HASH_SCAN identity ack received
+2026-09-24 20:05:51.292 HEAP_DUMP request=122 claimed_bytes=65535
+2026-09-24 20:05:56.306 HEAP_DUMP request=123 claimed_bytes=65535
+2026-09-24 20:05:58.254 HASH_SCAN identity ack received
+2026-09-24 20:06:01.336 HEAP_DUMP request=124 claimed_bytes=65535
+2026-09-24 20:06:02.168 HASH_SCAN identity ack received
+2026-09-24 20:06:02.620 HASH_SCAN identity ack received
+2026-09-24 20:06:06.341 HEAP_DUMP request=125 claimed_bytes=65535
+2026-09-24 20:06:07.645 DISCONNECT ID_DISCONNECTION_NOTIFICATION
+2026-09-24 20:06:07.645 HEAP_DUMP disconnected; retrying connection in 5 seconds
+2026-09-24 20:06:12.743 INIT server target: s1.ukraine-gta5.com.ua:22005, connect_host=s1.ukraine-gta5.com.ua, attempt=1/2, local_port=58115
+2026-09-24 20:06:12.907 CONNECT ID_CONNECTION_REQUEST_ACCEPTED
+2026-09-24 20:06:12.971 AUTH upper auth result received
+2026-09-24 20:06:13.224 BOOTSTRAP upper 0x03 received
+2026-09-24 20:06:13.491 HASH_SCAN identity ack received
+2026-09-24 20:06:13.491 BIZ_ORDER_DUMP connected and ready
+2026-09-24 20:06:13.522 HEAP_DUMP request=126 claimed_bytes=65535
+2026-09-24 20:06:16.325 HASH_SCAN identity ack received
+2026-09-24 20:06:18.534 HEAP_DUMP request=127 claimed_bytes=65535
+2026-09-24 20:06:22.061 HASH_SCAN identity ack received
+2026-09-24 20:06:23.537 HEAP_DUMP request=128 claimed_bytes=65535
+2026-09-24 20:06:24.306 HASH_SCAN identity ack received
+2026-09-24 20:06:28.564 HEAP_DUMP request=129 claimed_bytes=65535
+2026-09-24 20:06:33.578 HEAP_DUMP request=130 claimed_bytes=65535
+2026-09-24 20:06:36.731 HASH_SCAN identity ack received
+2026-09-24 20:06:38.077 HASH_SCAN identity ack received
+2026-09-24 20:06:38.581 HEAP_DUMP request=131 claimed_bytes=65535
+2026-09-24 20:06:40.894 HASH_SCAN identity ack received
+2026-09-24 20:06:43.614 HEAP_DUMP request=132 claimed_bytes=65535
+2026-09-24 20:06:45.498 HASH_SCAN identity ack received
+2026-09-24 20:06:48.382 HASH_SCAN identity ack received
+2026-09-24 20:06:48.647 HEAP_DUMP request=133 claimed_bytes=65535
+2026-09-24 20:06:53.651 HEAP_DUMP request=134 claimed_bytes=65535
+2026-09-24 20:06:58.678 HEAP_DUMP request=135 claimed_bytes=65535
+2026-09-24 20:07:01.691 HASH_SCAN identity ack received
+2026-09-24 20:07:03.706 HEAP_DUMP request=136 claimed_bytes=65535
+2026-09-24 20:07:08.707 HEAP_DUMP request=137 claimed_bytes=65535
+2026-09-24 20:07:13.717 HEAP_DUMP request=138 claimed_bytes=65535
+2026-09-24 20:07:14.737 HASH_SCAN identity ack received
+2026-09-24 20:07:18.749 HEAP_DUMP request=139 claimed_bytes=65535
+2026-09-24 20:07:19.033 HASH_SCAN identity ack received
+2026-09-24 20:07:23.762 HEAP_DUMP request=140 claimed_bytes=65535
+2026-09-24 20:07:24.860 HASH_SCAN identity ack received
+2026-09-24 20:07:28.792 HEAP_DUMP request=141 claimed_bytes=65535
+2026-09-24 20:07:33.792 HEAP_DUMP request=142 claimed_bytes=65535
